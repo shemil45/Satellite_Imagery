@@ -1,0 +1,9 @@
+# Ignore ann environment
+ann/
+
+# Python-related ignores
+*.pyc
+__pycache__/
+*.env
+.ipynb_checkpoints/
+.DS_Store
